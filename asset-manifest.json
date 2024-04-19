@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Instagram-like_Interface_using_ReactJS/static/css/main.0c367213.css",
+    "main.js": "/Instagram-like_Interface_using_ReactJS/static/js/main.f348e623.js",
+    "index.html": "/Instagram-like_Interface_using_ReactJS/index.html",
+    "main.0c367213.css.map": "/Instagram-like_Interface_using_ReactJS/static/css/main.0c367213.css.map",
+    "main.f348e623.js.map": "/Instagram-like_Interface_using_ReactJS/static/js/main.f348e623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c367213.css",
+    "static/js/main.f348e623.js"
+  ]
+}
