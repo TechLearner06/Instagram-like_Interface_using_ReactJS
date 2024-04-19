@@ -1,0 +1,52 @@
+.suggestions{
+    margin-top:30px;
+    margin-right: 20px;
+}
+
+
+.suggestion_title{
+    color:gray;
+    font-weight: bolder;
+}
+
+.left_side{
+    display: flex;
+    align-items: center;
+
+}
+
+
+.user_info{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-rel{
+    color:gray;
+    font-size: 12px;
+}
+
+
+.suggestion_user{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+
+.follow-btn{
+    color:#0095f6;
+    font-weight: bold;
+    background: 0;
+    border:0;
+}
+
+
+.follow-btn:hover{
+    color:white;
+    cursor: pointer;
+}
+
+.avatar{
+    margin-right:10px;
+}

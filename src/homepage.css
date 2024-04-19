@@ -1,0 +1,17 @@
+.homepage{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.homepage_nav{
+    flex-basis: 25%;
+    border-right:2px solid rgba(255,255,255,0.128);
+    
+}
+
+
+.homepage_timeline{
+    flex-basis:75%;
+    
+}
